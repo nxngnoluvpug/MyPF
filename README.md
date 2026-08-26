@@ -1,4 +1,4 @@
-[learn-in-public.md](https://github.com/user-attachments/files/31447297/learn-in-public.md)
+
 <!-- ==========================================================================
      สไตล์ที่ 2 — Learn in Public  (แนว sw-yx และ rishavanand)
      แนะนำสำหรับนักศึกษาปี 1 มากที่สุด เพราะใช้ได้ทันทีตั้งแต่วันที่ยังไม่มีผลงาน
