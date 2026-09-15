@@ -3,8 +3,7 @@
 <h1 align="center">
   Hello, I'm Apilak Tongthaisong
 <img width="499" height="281" alt="Dog Smile GIF" src="https://github.com/user-attachments/assets/341d262a-33ef-4789-a74d-2973380d54a7" />
- width="80"
-       style="vertical-align: middle;">
+
 </h1>
 
 <p align="center">
