@@ -11,12 +11,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif"
-       width="800"
-       height="450">
-</p>
-
 <hr style="height:5px; background-color:black; border:none;">
 
 
