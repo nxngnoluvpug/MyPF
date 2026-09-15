@@ -2,8 +2,8 @@
 
 <h1 align="center">
   Hello, I'm Apilak Tongthaisong
-  <img src="https://giphy.com/gifs/smile-pug-dog-oDLDbBgf0dkis](https://giphy.com/gifs/smile-pug-dog-oDLDbBgf0dkis"
-       width="80"
+<img width="499" height="281" alt="Dog Smile GIF" src="https://github.com/user-attachments/assets/341d262a-33ef-4789-a74d-2973380d54a7" />
+ width="80"
        style="vertical-align: middle;">
 </h1>
 
