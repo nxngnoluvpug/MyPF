@@ -7,8 +7,7 @@
 
 <p align="center">
 <img width="480" height="270" alt="Nicki Minaj Hello GIF by DNCE" src="https://github.com/user-attachments/assets/57385204-4171-4b60-83ed-28435436dbcd" />
-       width="80"
-       style="vertical-align: middle;">
+
 
 </p>
 
