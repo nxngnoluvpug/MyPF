@@ -27,44 +27,11 @@ I enjoy creating projects and improving my skills.
 </b>
 
 
-
-<!-- ==================== ROBOTICS PROJECTS ==================== -->
-
-<hr style="height:5px; background-color:black; border:none;">
-
-<h1>🛠️ My Robotics Projects</h1>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="lego-ev3.png" width="300">
-<br>
-<b>LEGO Mindstorms EV3</b>
-</td>
-
-<td align="center">
-<img src="lego-nxt.png" width="300">
-<br>
-<b>LEGO Mindstorms NXT</b>
-</td>
-
-<td align="center">
-<img src="microbit.png" width="300">
-<br>
-<b>BBC micro:bit</b>
-</td>
-</tr>
-</table>
-
-<hr style="height:5px; background-color:black; border:none;">
-
-
 <!-- ==================== MY JOURNEY ==================== -->
 
 <h2>⚡ About My Journey</h2>
 
 <p>
-  🤖 Robotics & Automation Enthusiast<br>
   💻 Programmer & Technology Lover<br>
   🛠️ Builder • Coder • Problem Solver<br>
   🚀 Always Learning & Improving
@@ -104,6 +71,6 @@ I enjoy creating projects and improving my skills.
 <!-- ==================== CONTACT ==================== -->
 
 <p>
-  💻 GitHub: <b>apilak007</b><br>
+  💻 GitHub: <b>nxngnoluvpug</b><br>
  
 </p>
