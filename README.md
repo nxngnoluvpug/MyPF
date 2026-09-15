@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Hello, I'm Apilak Tongthaisong
-  <img src="https://giphy.com/gifs/smile-pug-dog-oDLDbBgf0dkis"
+  <img src="https://giphy.com/gifs/smile-pug-dog-oDLDbBgf0dkis](https://giphy.com/gifs/smile-pug-dog-oDLDbBgf0dkis"
        width="80"
        style="vertical-align: middle;">
 </h1>
