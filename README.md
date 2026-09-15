@@ -72,7 +72,8 @@ I enjoy creating projects and improving my skills.
   💡 Learn new technologies<br>
   🚀 Become a skilled Computer Engineer
 </p>
-
+<img width="480" height="480" alt="Aww Pug GIF" src="https://github.com/user-attachments/assets/6c244bc5-b454-48ac-ad5f-8d7cbd79fd8a" />
+</p>
 <hr style="height:5px; background-color:black; border:none;">
 
 <!-- ==================== CONTACT ==================== -->
