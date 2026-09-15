@@ -1,70 +1,115 @@
-[learn-in-public.md](https://github.com/user-attachments/files/31447922/learn-in-public.md)
-<!-- ==========================================================================
-     สไตล์ที่ 2 — Learn in Public  (แนว sw-yx และ rishavanand)
-     แนะนำสำหรับนักศึกษาปี 1 มากที่สุด เพราะใช้ได้ทันทีตั้งแต่วันที่ยังไม่มีผลงาน
-     หัวใจของสไตล์นี้คือ "บันทึกการเรียนรู้" ด้านล่าง กลับมาเพิ่มเดือนละครั้งก็พอ
-     สิ่งที่คนอ่านมองหาคือความต่อเนื่อง ไม่ใช่ความเก่ง
+<!-- ==================== HEADER ==================== -->
 
-     วิธีใช้ กด Copy raw file ที่มุมขวาบน แล้วนำไปวางใน README.md ของ repository
-     ที่ชื่อเดียวกับ username ของตนเอง จากนั้นแก้ข้อความในวงเล็บเหลี่ยม [ ] แล้วลบวงเล็บออก
-     บรรทัดที่อยู่ในเครื่องหมายแบบนี้คือคอมเมนต์ จะไม่แสดงบนหน้าเว็บ ลบทิ้งได้เลย
-     ========================================================================== -->
+<h1 align="center">
+  Hello, I'm Apilak Tongthaisong
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRscmZ1aDUybGY2ZXVtNzNkMGdodTJoYTcyY295ZHQ3aG43ZjljMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PRVDslxfTmwXkLinrk/giphy.gif"
+       width="80"
+       style="vertical-align: middle;">
+</h1>
 
-## สวัสดีครับ/ค่ะ ผม/ดิฉัน [ชื่อที่ใช้แสดง] 👋
+<p align="center">
+  <img src="code_the_future_rainbow_no_background.gif" width="80%">
+</p>
 
-### 💻 นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 · มทร.อีสาน
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif"
+       width="800"
+       height="450">
+</p>
 
-> [หนึ่งประโยคว่าสนใจสร้างอะไร เขียนให้เจาะจง
->  เช่น "สนใจระบบสมองกลฝังตัว การเขียนภาษา C และเครือข่ายคอมพิวเตอร์"]
+<hr style="height:5px; background-color:black; border:none;">
 
----
 
-### 🔭 ตอนนี้กำลังทำอะไรอยู่
+<!-- ==================== ABOUT ME ==================== -->
 
-- [งานที่ลงมือทำอยู่จริงในเดือนนี้ ถ้ายังไม่มี ให้เขียนว่ากำลังทำเว็บส่วนตัวหน้าแรกของตัวเอง]
+<h2>👋 About Me</h2>
 
-### 🌱 กำลังเรียนรู้
+<b>
+🎓 Computer Engineering Student<br><br>
 
-<!-- ใส่เฉพาะสิ่งที่เรียนอยู่จริง เรียนจบแล้วย้ายไปหัวข้อ "ถามผมได้" ด้านล่าง -->
+I am interested in programming, web development, and technology.<br>
+Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.<br>
+I enjoy creating projects and improving my skills.
+</b>
 
-- พื้นฐานอินเทอร์เน็ตและการทำงานของเว็บ
-- HTML และ CSS
-- การใช้ Git และ GitHub
-- [เพิ่มเมื่อได้เริ่มจริง]
 
-### 🎯 อยากไปทางไหน
 
-<!-- ลบข้อที่ไม่ใช่ออก หรือเขียนใหม่เป็นของตัวเอง ตอบไม่ได้ตอนนี้ก็เขียนว่ายังหาอยู่ ไม่ใช่เรื่องเสียหาย -->
+<!-- ==================== ROBOTICS PROJECTS ==================== -->
 
-- ระบบสมองกลฝังตัว (Embedded systems) และ IoT
-- เครือข่ายคอมพิวเตอร์
-- การพัฒนาเว็บ
+<hr style="height:5px; background-color:black; border:none;">
 
-### 🧠 บันทึกการเรียนรู้
+<h1>🛠️ My Robotics Projects</h1>
 
-<!-- นี่คือหัวใจของสไตล์นี้ เขียนสิ่งที่เพิ่งเข้าใจ ไม่ต้องยาว บรรทัดเดียวพอ
-     เพิ่มเดือนละครั้งก็พอ แต่ต้องเพิ่มจริง แถวล่างสุดคือของเก่าสุด ให้ของใหม่อยู่บนสุด -->
+<table align="center">
+<tr>
+<td align="center">
+<img src="lego-ev3.png" width="300">
+<br>
+<b>LEGO Mindstorms EV3</b>
+</td>
 
-| เมื่อไร | เพิ่งเข้าใจว่า |
-|---|---|
-| [ส.ค. 2569] | [เช่น DNS ทำหน้าที่แปลงชื่อโดเมนเป็น IP address ก่อน browser จะต่อไปหา server ได้] |
-| [ส.ค. 2569] | [เช่น commit ไม่ใช่การบันทึกไฟล์ แต่คือการบันทึกสถานะทั้งโปรเจกต์ ณ เวลานั้น] |
+<td align="center">
+<img src="lego-nxt.png" width="300">
+<br>
+<b>LEGO Mindstorms NXT</b>
+</td>
 
-### 💬 ถามผม/ดิฉันได้เรื่อง
+<td align="center">
+<img src="microbit.png" width="300">
+<br>
+<b>BBC micro:bit</b>
+</td>
+</tr>
+</table>
 
-<!-- เขียนเฉพาะเรื่องที่อธิบายให้เพื่อนฟังได้จริง เริ่มจากเรื่องเดียวก็พอ -->
+<hr style="height:5px; background-color:black; border:none;">
 
-- [เช่น การ deploy เว็บขึ้น GitHub Pages]
 
-### 🌐 ผลงาน
+<!-- ==================== MY JOURNEY ==================== -->
 
-<!-- ปี 1 เทอมแรกยังไม่มีผลงานเป็นเรื่องปกติ เขียนตามจริงได้ พอมีงานแล้วค่อยกลับมาทำเป็นรายการ -->
+<h2>⚡ About My Journey</h2>
 
-- **เว็บไซต์ของผม/ดิฉัน** — [[username].github.io](https://[username].github.io)
-- ยังอยู่ช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น
+<p>
+  🤖 Robotics & Automation Enthusiast<br>
+  💻 Programmer & Technology Lover<br>
+  🛠️ Builder • Coder • Problem Solver<br>
+  🚀 Always Learning & Improving
+</p>
 
----
+<hr style="height:5px; background-color:black; border:none;">
 
-<!-- ช่องทางติดต่อ ใช้ลิงก์สาธารณะเท่านั้น ห้ามใส่เบอร์โทรศัพท์ อีเมลส่วนตัว หรือที่อยู่ -->
 
-📫 ติดต่อผ่าน [GitHub](https://github.com/[username])
+<!-- ==================== SKILLS ==================== -->
+
+<h2>💻 Skills & Technologies</h2>
+
+<p>
+  💻 C<br>
+  🌐 HTML • CSS • JavaScript<br>
+  🔧 Git • GitHub<br>
+  🤖 LEGO Mindstorms EV3 • NXT<br>
+  ⚡ BBC micro:bit
+</p>
+
+<hr style="height:5px; background-color:black; border:none;">
+
+
+<!-- ==================== GOALS ==================== -->
+
+<h2>🚀 My Goals</h2>
+
+<p>
+  🎯 Improve my programming skills<br>
+  🤖 Build innovative robotics projects<br>
+  💡 Learn new technologies<br>
+  🚀 Become a skilled Computer Engineer
+</p>
+
+<hr style="height:5px; background-color:black; border:none;">
+
+<!-- ==================== CONTACT ==================== -->
+
+<p>
+  💻 GitHub: <b>apilak007</b><br>
+ 
+</p>
