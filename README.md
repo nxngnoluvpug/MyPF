@@ -6,7 +6,8 @@
 </h1>
 
 <p align="center">
-![Uploading Nicki Minaj Hello GIF by DNCE.gif…]()
+<img width="480" height="270" alt="Nicki Minaj Hello GIF by DNCE" src="https://github.com/user-attachments/assets/57385204-4171-4b60-83ed-28435436dbcd" />
+
 
 </p>
 
