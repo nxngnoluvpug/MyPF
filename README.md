@@ -25,7 +25,7 @@ I am interested in programming, web development, and technology.<br>
 Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.<br>
 I enjoy creating projects and improving my skills.
 </b>
-<img width="80" height="500" alt="GIF by Puglie Pug" src="https://github.com/user-attachments/assets/db89c7e0-00ba-4047-a33a-5fea1f8eb716" />
+<img width="80" height="80" alt="GIF by Puglie Pug" src="https://github.com/user-attachments/assets/db89c7e0-00ba-4047-a33a-5fea1f8eb716" />
 
 
 
